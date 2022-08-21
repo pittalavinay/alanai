@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alanai/static/css/main.e6efbec5.css",
+    "main.js": "/alanai/static/js/main.406c2e22.js",
+    "static/js/787.f5e1d206.chunk.js": "/alanai/static/js/787.f5e1d206.chunk.js",
+    "index.html": "/alanai/index.html",
+    "main.e6efbec5.css.map": "/alanai/static/css/main.e6efbec5.css.map",
+    "main.406c2e22.js.map": "/alanai/static/js/main.406c2e22.js.map",
+    "787.f5e1d206.chunk.js.map": "/alanai/static/js/787.f5e1d206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6efbec5.css",
+    "static/js/main.406c2e22.js"
+  ]
+}
